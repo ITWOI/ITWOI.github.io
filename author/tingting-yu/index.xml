@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tingting Yu | Yu Wang&#39;s homepage</title>
+    <link>https://itwoi.github.io/author/tingting-yu/</link>
+      <atom:link href="https://itwoi.github.io/author/tingting-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tingting Yu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
+      <title>Tingting Yu</title>
+      <link>https://itwoi.github.io/author/tingting-yu/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Detection, Validation and Repair of Race Conditions in Interrupt-Driven Embedded Software</title>
+      <link>https://itwoi.github.io/publication/9072666/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/9072666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection and validation of race conditions in interrupt-driven embedded software</title>
+      <link>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
