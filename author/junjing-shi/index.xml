@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junjing Shi | Yu Wang&#39;s homepage</title>
+    <link>https://itwoi.github.io/author/junjing-shi/</link>
+      <atom:link href="https://itwoi.github.io/author/junjing-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junjing Shi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
+      <title>Junjing Shi</title>
+      <link>https://itwoi.github.io/author/junjing-shi/</link>
+    </image>
+    
+    <item>
+      <title>Detecting data races in interrupt-driven programs based on static analysis and dynamic simulation</title>
+      <link>https://itwoi.github.io/publication/wang-2015-detecting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2015-detecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

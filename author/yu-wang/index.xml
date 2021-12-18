@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yu Wang | Yu Wang&#39;s homepage</title>
+    <title>Yu WANG | Yu Wang&#39;s homepage</title>
     <link>https://itwoi.github.io/author/yu-wang/</link>
       <atom:link href="https://itwoi.github.io/author/yu-wang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yu Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <description>Yu WANG</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
-      <title>Yu Wang</title>
+      <url>https://itwoi.github.io/author/yu-wang/avatar_hu9acd2031755121896f35479812618f7c_97127_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Yu WANG</title>
       <link>https://itwoi.github.io/author/yu-wang/</link>
     </image>
     
+  </channel>
+</rss>
+g/</link>
+    </image>
+    
     <item>
-      <title>Learning semantic program embeddings with graph interval neural network.</title>
+      <title>Learning semantic program embeddings with graph interval neural network</title>
       <link>https://itwoi.github.io/publication/wang-2020-learning/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://itwoi.github.io/publication/wang-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Buffer Overflow Warning Validation</title>
+      <link>https://itwoi.github.io/publication/gao-2020-automatic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2020-automatic/</guid>
       <description></description>
     </item>
     
@@ -29,10 +42,26 @@
     </item>
     
     <item>
+      <title>Dangdone: Eliminating dangling pointers via intermediate pointers</title>
+      <link>https://itwoi.github.io/publication/wang-2018-dangdone/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2018-dangdone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automatic detection and validation of race conditions in interrupt-driven embedded software</title>
       <link>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting data races in interrupt-driven programs based on static analysis and dynamic simulation</title>
+      <link>https://itwoi.github.io/publication/wang-2015-detecting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2015-detecting/</guid>
       <description></description>
     </item>
     

@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Learning semantic program embeddings with graph interval neural network.</title>
+      <title>Learning semantic program embeddings with graph interval neural network</title>
       <link>https://itwoi.github.io/publication/wang-2020-learning/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://itwoi.github.io/publication/wang-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Buffer Overflow Warning Validation</title>
+      <link>https://itwoi.github.io/publication/gao-2020-automatic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2020-automatic/</guid>
       <description></description>
     </item>
     
@@ -29,10 +37,26 @@
     </item>
     
     <item>
+      <title>Dangdone: Eliminating dangling pointers via intermediate pointers</title>
+      <link>https://itwoi.github.io/publication/wang-2018-dangdone/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2018-dangdone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automatic detection and validation of race conditions in interrupt-driven embedded software</title>
       <link>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting data races in interrupt-driven programs based on static analysis and dynamic simulation</title>
+      <link>https://itwoi.github.io/publication/wang-2015-detecting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2015-detecting/</guid>
       <description></description>
     </item>
     
