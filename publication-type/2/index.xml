@@ -5,12 +5,36 @@
     <link>https://itwoi.github.io/publication-type/2/</link>
       <atom:link href="https://itwoi.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://itwoi.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning-Based Hybrid Fuzz Testing</title>
+      <link>https://itwoi.github.io/publication/gao-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-precision Data Race Detection Method for Large Scale Programs</title>
+      <link>https://itwoi.github.io/publication/gao-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Checking of Array Index Out-of-Bounds Defects in C Programs Based on Taint Analysis</title>
+      <link>https://itwoi.github.io/publication/gao-2021-static/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-static/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automatic Buffer Overflow Warning Validation</title>
@@ -25,6 +49,14 @@
       <link>https://itwoi.github.io/publication/9072666/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://itwoi.github.io/publication/9072666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>垂悬指针检测与防御方法</title>
+      <link>https://itwoi.github.io/publication/wang-2020-detecting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2020-detecting/</guid>
       <description></description>
     </item>
     

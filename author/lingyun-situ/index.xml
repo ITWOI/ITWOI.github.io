@@ -5,12 +5,28 @@
     <link>https://itwoi.github.io/author/lingyun-situ/</link>
       <atom:link href="https://itwoi.github.io/author/lingyun-situ/index.xml" rel="self" type="application/rss+xml" />
     <description>Lingyun Situ</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
       <title>Lingyun Situ</title>
       <link>https://itwoi.github.io/author/lingyun-situ/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning-Based Hybrid Fuzz Testing</title>
+      <link>https://itwoi.github.io/publication/gao-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Checking of Array Index Out-of-Bounds Defects in C Programs Based on Taint Analysis</title>
+      <link>https://itwoi.github.io/publication/gao-2021-static/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-static/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dangdone: Eliminating dangling pointers via intermediate pointers</title>

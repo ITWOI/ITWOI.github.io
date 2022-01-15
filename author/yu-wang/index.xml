@@ -5,7 +5,7 @@
     <link>https://itwoi.github.io/author/yu-wang/</link>
       <atom:link href="https://itwoi.github.io/author/yu-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
       <title>Yu Wang</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Deep Learning-Based Hybrid Fuzz Testing</title>
+      <link>https://itwoi.github.io/publication/gao-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-precision Data Race Detection Method for Large Scale Programs</title>
+      <link>https://itwoi.github.io/publication/gao-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Checking of Array Index Out-of-Bounds Defects in C Programs Based on Taint Analysis</title>
+      <link>https://itwoi.github.io/publication/gao-2021-static/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning semantic program embeddings with graph interval neural network</title>
       <link>https://itwoi.github.io/publication/wang-2020-learning/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://itwoi.github.io/publication/wang-2020-learning/</guid>
       <description></description>
     </item>
@@ -49,14 +73,6 @@
       <link>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting data races in interrupt-driven programs based on static analysis and dynamic simulation</title>
-      <link>https://itwoi.github.io/publication/wang-2015-detecting/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://itwoi.github.io/publication/wang-2015-detecting/</guid>
       <description></description>
     </item>
     
