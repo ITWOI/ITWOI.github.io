@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> 陈碧欢 | Yu Wang&#39;s homepage</title>
+    <link>https://itwoi.github.io/author/%E9%99%88%E7%A2%A7%E6%AC%A2/</link>
+      <atom:link href="https://itwoi.github.io/author/%E9%99%88%E7%A2%A7%E6%AC%A2/index.xml" rel="self" type="application/rss+xml" />
+    <description> 陈碧欢</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
+      <title> 陈碧欢</title>
+      <link>https://itwoi.github.io/author/%E9%99%88%E7%A2%A7%E6%AC%A2/</link>
+    </image>
+    
+    <item>
+      <title>垂悬指针检测与防御方法</title>
+      <link>https://itwoi.github.io/publication/wang-2020-detecting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2020-detecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

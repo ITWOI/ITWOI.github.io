@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Zhang | Yu Wang&#39;s homepage</title>
+    <link>https://itwoi.github.io/author/charles-zhang/</link>
+      <atom:link href="https://itwoi.github.io/author/charles-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
+      <title>Charles Zhang</title>
+      <link>https://itwoi.github.io/author/charles-zhang/</link>
+    </image>
+    
+    <item>
+      <title>High-precision Data Race Detection Method for Large Scale Programs</title>
+      <link>https://itwoi.github.io/publication/gao-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/gao-2021-high/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
