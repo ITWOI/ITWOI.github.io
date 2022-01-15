@@ -5,12 +5,20 @@
     <link>https://itwoi.github.io/</link>
       <atom:link href="https://itwoi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Wang&#39;s homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://itwoi.github.io/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
       <title>Yu Wang&#39;s homepage</title>
       <link>https://itwoi.github.io/</link>
     </image>
+    
+    <item>
+      <title>Automatic Detection, Validation and Repair of Race Conditions in Interrupt-Driven Embedded Software</title>
+      <link>https://itwoi.github.io/publication/9072666/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/9072666/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning-Based Hybrid Fuzz Testing</title>
@@ -49,14 +57,6 @@
       <link>https://itwoi.github.io/publication/gao-2020-automatic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://itwoi.github.io/publication/gao-2020-automatic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic Detection, Validation and Repair of Race Conditions in Interrupt-Driven Embedded Software</title>
-      <link>https://itwoi.github.io/publication/9072666/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://itwoi.github.io/publication/9072666/</guid>
       <description></description>
     </item>
     
@@ -152,6 +152,14 @@ Second, we employ May-Happen-in-Parallel (MHP) analysis to identify whether two 
 This stage is scalable, due to the design of the thread flow graph (TFG), that  encodes thread information to query MHP relationship of the subpaths.
 Finally, for each subpath whose two data accesses are MHP, we apply heavyweight path-sensitive analysis to verify the feasibility of the data races.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Detecting data races in interrupt-driven programs based on static analysis and dynamic simulation</title>
+      <link>https://itwoi.github.io/publication/wang-2015-detecting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://itwoi.github.io/publication/wang-2015-detecting/</guid>
+      <description></description>
     </item>
     
   </channel>
