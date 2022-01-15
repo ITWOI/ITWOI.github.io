@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yu Wang&#39;s homepage</title>
+    <link>https://cs.nju.edu.cn/wangyu/publication/</link>
+      <atom:link href="https://cs.nju.edu.cn/wangyu/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cs.nju.edu.cn/wangyu/media/icon_hu3111a196585143d4d4672ad8e7e42cb6_90823_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Detection, Validation and Repair of Race Conditions in Interrupt-Driven Embedded Software</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/9072666/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/9072666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-Based Hybrid Fuzz Testing</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/gao-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/gao-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-precision Data Race Detection Method for Large Scale Programs</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/gao-2021-high/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/gao-2021-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Checking of Array Index Out-of-Bounds Defects in C Programs Based on Taint Analysis</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/gao-2021-static/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/gao-2021-static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning semantic program embeddings with graph interval neural network</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/wang-2020-learning/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/wang-2020-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Buffer Overflow Warning Validation</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/gao-2020-automatic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/gao-2020-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>垂悬指针检测与防御方法</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/wang-2020-detecting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/wang-2020-detecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dangdone: Eliminating dangling pointers via intermediate pointers</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/wang-2018-dangdone/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/wang-2018-dangdone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection and validation of race conditions in interrupt-driven embedded software</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/dblp-confissta-wang-wyzl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/dblp-confissta-wang-wyzl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting data races in interrupt-driven programs based on static analysis and dynamic simulation</title>
+      <link>https://cs.nju.edu.cn/wangyu/publication/wang-2015-detecting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cs.nju.edu.cn/wangyu/publication/wang-2015-detecting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
