@@ -2,173 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://itwoi.github.io/publication-type/2/</loc>
-    <lastmod>2022-01-15T11:41:11+08:00</lastmod>
+    <loc>https://itwoi.github.io/talk/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://itwoi.github.io/authors/</loc>
-    <lastmod>2022-01-15T16:36:29+08:00</lastmod>
+    <loc>https://itwoi.github.io/publication-type/2/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://itwoi.github.io/publication/gao-2023-discrete/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://itwoi.github.io/publication_types/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://itwoi.github.io/publication/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://itwoi.github.io/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/9072666/</loc>
     <lastmod>2022-01-14T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/fengjuan-gao/</loc>
-    <lastmod>2022-01-15T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/jianhua-zhao/</loc>
-    <lastmod>2022-01-14T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/linzhang-wang/</loc>
-    <lastmod>2022-01-15T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/publication_types/</loc>
-    <lastmod>2022-01-15T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/publication/</loc>
-    <lastmod>2022-01-15T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/tingting-yu/</loc>
-    <lastmod>2022-01-14T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/xuandong-li/</loc>
-    <lastmod>2022-01-15T11:41:11+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/yu-wang/</loc>
-    <lastmod>2022-01-15T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/</loc>
-    <lastmod>2022-01-15T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/anzi-xu/</loc>
-    <lastmod>2022-01-10T10:56:49+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/charles-zhang/</loc>
-    <lastmod>2022-01-10T10:56:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/gao-2021-deep/</loc>
     <lastmod>2022-01-11T10:57:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/gao-2021-high/</loc>
     <lastmod>2022-01-10T10:56:49+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/jinguo-zhou/</loc>
-    <lastmod>2022-01-10T10:56:49+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/lingyun-situ/</loc>
-    <lastmod>2022-01-15T11:41:11+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/rongxin-wu/</loc>
-    <lastmod>2022-01-10T10:56:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/gao-2021-static/</loc>
     <lastmod>2022-01-15T11:41:11+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/tianjiao-chen/</loc>
-    <lastmod>2022-01-15T11:41:11+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/zhendong-su/</loc>
-    <lastmod>2022-01-10T10:56:49+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication-type/1/</loc>
     <lastmod>2022-01-15T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/ke-wang/</loc>
-    <lastmod>2022-01-15T16:36:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/wang-2020-learning/</loc>
     <lastmod>2022-01-15T16:36:29+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E5%88%98%E6%9D%A8/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E5%8F%B8%E5%BE%92%E5%87%8C%E4%BA%91/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E6%9D%8E%E5%AE%A3%E4%B8%9C/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E7%8E%8B%E6%9E%97%E7%AB%A0/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E7%8E%8B%E8%B1%AB/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E8%B5%B5%E5%BB%BA%E5%8D%8E/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E9%99%88%E7%A2%A7%E6%AC%A2/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E9%A9%AC%E5%8F%AF%E6%AC%A3/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/%E9%AB%98%E5%87%A4%E5%A8%9F/</loc>
-    <lastmod>2022-01-14T11:00:30+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/gao-2020-automatic/</loc>
     <lastmod>2022-01-14T22:00:12+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/zijiang-yang/</loc>
-    <lastmod>2022-01-14T22:00:12+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/wang-2020-detecting/</loc>
     <lastmod>2022-01-14T11:00:30+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/bihuan-chen/</loc>
-    <lastmod>2021-12-18T22:00:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/wang-2018-dangdone/</loc>
     <lastmod>2021-12-18T22:00:06+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/lingzhang-wang/</loc>
-    <lastmod>2021-12-18T22:00:06+08:00</lastmod>
-  </url><url>
-    <loc>https://itwoi.github.io/author/yang-liu/</loc>
-    <lastmod>2021-12-18T22:00:06+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/dblp-confissta-wang-wyzl-17/</loc>
     <lastmod>2022-01-14T16:36:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/project/dlsat/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/tag/bug-detection/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/project/ytt/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/project/ginn/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/project/dangdone/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/project/guard/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/publication/wang-2015-detecting/</loc>
     <lastmod>2021-12-18T22:00:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://itwoi.github.io/author/junjing-shi/</loc>
-    <lastmod>2021-12-18T22:00:09+08:00</lastmod>
+    <loc>https://itwoi.github.io/admin/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://itwoi.github.io/post/</loc>
-  </url><url>
-    <loc>https://itwoi.github.io/author/qian-chen/</loc>
-  </url><url>
-    <loc>https://itwoi.github.io/talk/</loc>
-  </url><url>
-    <loc>https://itwoi.github.io/author/yu-wang/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
